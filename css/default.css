@@ -33,5 +33,9 @@ footer{
     background-color:purple;
  width :200;
  float:right;
+ position:relative;
+ top:30px;
+ right:20px;
+ 
   }
   
