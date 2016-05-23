@@ -7,6 +7,16 @@
 body{
 background-color:green;
 }
+header{
+  background-color:orange;
+  
+}
+footer{
+  background-color:gray;
+}
+
+
+
 .box{
   background-color:red;
  width:300px;
